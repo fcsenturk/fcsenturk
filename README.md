@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Full-Stack Software
+- 🔭 I’m currently working on Full-Stack Developer
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on with a software developing company
 - 🤔 I’m looking for help with work
